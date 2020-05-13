@@ -1,5 +1,5 @@
 
-# Student_exam_performance
+# Student Exam Performance
 Jupyter notebook to show effect of various factors in student's exam scores
 
 -- Project Status: [Completed]
